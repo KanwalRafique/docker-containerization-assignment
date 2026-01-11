@@ -1,4 +1,3 @@
-<img width="1919" height="697" alt="Screenshot 2026-01-11 143922" src="https://github.com/user-attachments/assets/a5c0f557-932e-4c9d-918c-fb26f72b5ff1" />
 ## Docker Containerization Assignment
 
 This repository contains **two containerized projects**:
@@ -65,8 +64,6 @@ docker-containerization-assignment/
 ```
 
 > Large folders like `node_modules/`, `.next/`, `.venv/` are ignored by Git.
-
 ```
-
 ---
 
