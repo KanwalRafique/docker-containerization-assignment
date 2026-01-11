@@ -65,5 +65,4 @@ docker-containerization-assignment/
 
 > Large folders like `node_modules/`, `.next/`, `.venv/` are ignored by Git.
 ```
----
 
